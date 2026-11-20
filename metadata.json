@@ -1,0 +1,6 @@
+{
+  "name": "Pearlicious2 - Luxury Perfume Platform",
+  "description": "Premium Ghanaian Perfume Management and E-Commerce Platform tailored for Ghana with GH₵ currency, Mobile Money payments, and full inventory & admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
